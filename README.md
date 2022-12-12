@@ -1,4 +1,4 @@
-# Motorized Macro rail for Mirrorless Cameras With Deep Learning Image Detection
+# Motorized Camera Macro Rail With Deep Learning Image Detection
 
 ![image](https://user-images.githubusercontent.com/425045/207115017-fa5744d6-1aa1-4deb-a0c5-6b17a7738d09.png)
 
