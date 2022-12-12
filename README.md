@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/425045/207115017-fa5744d6-1aa1-4deb-a0c5-6b17a7738d09.png)
 
+Image copied from:https://www.diyphotography.net/how-to-build-an-automated-rail-for-crazy-macro-shots/
+
 ## Supervisor
 
 Dr. Gregor von Laszewski, laszewski@gmail.com
