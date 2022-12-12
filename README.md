@@ -1,4 +1,4 @@
-# Motorized Macrorail for Mirorless Cameras With AI Image Detection
+# Motorized Macrorail for Mirorless Cameras With Deep Learning Image Detection
 
 ![image](https://user-images.githubusercontent.com/425045/207115017-fa5744d6-1aa1-4deb-a0c5-6b17a7738d09.png)
 
@@ -51,8 +51,8 @@ ring will be sufficient to get images.
 
 ## Learning outcome
 
-* Use python for IOT development
-* Usa classificaton algorithms for image classificaion
+* Use Python for IOT development.
+* Usa image classificaton algorithms using Deep Learning.
 * Get familiarized with researching, creating and presentation of a research product that is useful for citizen scientists or researchers to utilize it
 
 
