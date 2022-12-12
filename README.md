@@ -49,6 +49,7 @@ ring will be sufficient to get images.
 * Write a report about it and publish it with me in an undergraduate publication venue
 * Develop a poster presentation
 * Showcase your creation in the IU poster session
+* Meeting once a week to report progress
 
 ## Learning outcome
 
