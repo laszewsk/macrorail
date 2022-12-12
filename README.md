@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/425045/207115017-fa5744d6-1aa1-4deb-a0c5-6b17a7738d09.png)
 
+## Supervisor
+
+Dr. Gregor von Laszewski, laszewski@gmail.com
+
 ## Goal
 
 In this project you will be exposed to a variety of practical and research issues related to IoT, 
