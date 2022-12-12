@@ -17,7 +17,8 @@ by others and can be adapted to various mirorless or DSLR cameras.
 We hope that the overall cost can be limited to below $100 which has to spend by you. The reason 
 we want you to spend the money is so you are encouraged to provide a very cost effective solution.
 Certainly if you already have hardware you can reuse it. Due to the portability, your board should 
-support micropython or python.
+support micropython or python. You should have a DSLR or mirorless camera. Macrotubes or a lens invert 
+ring will be sufficient to get images. 
 
 ## Example products and projects by others
 
